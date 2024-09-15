@@ -1,0 +1,71 @@
+[
+    {
+        "title": "The Dark Knight",
+        "author": "Christopher Nolan",
+        "year": 2008,
+        "genre": "Action",
+        "image": "https://m.media-amazon.com/images/I/91XAH-JzQtL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+        "title": "Inception",
+        "author": "Christopher Nolan",
+        "year": 2010,
+        "genre": "Thriller",
+        "image": "https://m.media-amazon.com/images/I/51I9fQLhnpL.jpg"
+    },
+    {
+        "title": "The Shawshank Redemption",
+        "author": "Frank Darabont",
+        "year": 1994,
+        "genre": "Drama",
+        "image": "https://m.media-amazon.com/images/I/81fir1vcNDL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+        "title": "Pulp Fiction",
+        "author": "Quentin Tarantino",
+        "year": 1994,
+        "genre": "Thriller",
+        "image": "https://m.media-amazon.com/images/I/61wwJW0FxeL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+        "title": "The Godfather",
+        "author": "Francis Ford Coppola",
+        "year": 1972,
+        "genre": "Drama",
+        "image": "https://m.media-amazon.com/images/I/61zAyF3qLnL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+        "title": "The Matrix",
+        "author": "The Wachowskis",
+        "year": 1999,
+        "genre": "Action",
+        "image": "https://m.media-amazon.com/images/I/81SAKAQJZ+L._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+        "title": "Forrest Gump",
+        "author": "Robert Zemeckis",
+        "year": 1994,
+        "genre": "Drama",
+        "image": "https://m.media-amazon.com/images/I/71xzEu8NuJL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+        "title": "Jurassic Park",
+        "author": "Steven Spielberg",
+        "year": 1993,
+        "genre": "Action",
+        "image": "https://upload.wikimedia.org/wikipedia/en/2/21/Jurassic_Park_%28book_cover%29.jpg"
+    },
+    {
+        "title": "Fight Club",
+        "author": "David Fincher",
+        "year": 1999,
+        "genre": "Thriller",
+        "image": "https://m.media-amazon.com/images/I/91MBNyp411L._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+        "title": "The Silence of the Lambs",
+        "author": "Jonathan Demme",
+        "year": 1991,
+        "genre": "Thriller",
+        "image": "https://m.media-amazon.com/images/I/71wytopNhPL._AC_UF1000,1000_QL80_.jpg"
+    }]
